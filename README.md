@@ -37,7 +37,8 @@
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
   - [Mistel Barocco](#mistel-barocco)
   - [VE.A](#vea)
-  - [Ultimate Hacking Keyboard](#ultimate-hacking-keyboard)
+  - [Ultimate Hacking Keyboard 80](#ultimate-hacking-keyboard-80)
+  - [Ultimate Hacking Keyboard 60v2](#ultimate-hacking-keyboard-60v2)
   - [X-Bows](#x-bows)
   - [Kinesis Advantage](#kinesis-advantage)
   - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
@@ -345,10 +346,15 @@ http://xahlee.info/kbd/VE.A_keyboard.html
 <img src="img/VEA.jpg" width="400px"/>
 
 
-## Ultimate Hacking Keyboard
+## Ultimate Hacking Keyboard 80
 https://ultimatehackingkeyboard.com
 
-<img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
+<img src="img/Ultimatehackingkeyboard-80.jpg" width="400px"/>
+
+## Ultimate Hacking Keyboard 60v2
+https://ultimatehackingkeyboard.com
+
+<img src="img/Ultimatehackingkeyboard-60v2.jpg" width="400px"/>
 
 
 ## X-Bows
